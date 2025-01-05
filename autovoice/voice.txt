@@ -1,4 +1,5 @@
 {
-"alive": "https://github.com/prabathLK/PRABATH_MD---DATABASE/blob/main/Default-DB/auto-voice.js/owner-sachintha-prabath.opus?raw=true",
- "menu": "https://github.com/prabathLK/AUTO-VOICE-SENDER-PRABATH-MD-/blob/main/plugins/bgm/PTT-20230216-WA0020.mp3?raw=true"
+"alive": "https://github.com/gaseballa2007/HARD-DISK/raw/refs/heads/main/voice-storage/-storage/alive.mp3",
+"system": "https://github.com/gaseballa2007/HARD-DISK/raw/refs/heads/main/voice-storage/-storage/system.mp3",
+ "menu": "https://github.com/gaseballa2007/HARD-DISK/raw/refs/heads/main/voice-storage/-storage/menu.mp3"
 }
